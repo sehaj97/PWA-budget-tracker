@@ -18,9 +18,10 @@ This application takes advantage of the following technologies:
 - [indexed db](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 
 ## Instructions
-This project is deployed on Heroku .
+This project is deployed on Heroku [https://pwa-budget-calculator.herokuapp.com/](https://pwa-budget-calculator.herokuapp.com/).
 
 ## Page Screenshots
+![screenshot app](./public/images/sc1.png)
 
 ### Application Functionalities
 
@@ -47,4 +48,4 @@ THEN the deposits or expenses added while they were offline are added to their t
 ```
 
 ## Contributing
-Any and all collaboration is welcome so if you have any suggestions or thoughts for new features, please send me an email at
+Any and all collaboration is welcome so if you have any suggestions or thoughts for new features, please send me an email at [sehajmagan@gmail.com](mailto:sehajmagan@gmail.com)
