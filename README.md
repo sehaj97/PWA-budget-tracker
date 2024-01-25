@@ -17,9 +17,6 @@ This application takes advantage of the following technologies:
 - [service worker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
 - [indexed db](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 
-## Instructions
-This project is deployed on Heroku [https://pwa-budget-calculator.herokuapp.com/](https://pwa-budget-calculator.herokuapp.com/).
-
 ## Page Screenshots
 ![screenshot app](./public/images/sc1.png)
 
